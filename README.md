@@ -1,4 +1,4 @@
-<h1 align="center">🌾 AgriBridge</h1>
+<h1 align="center"> AgriBridge</h1>
 
 ###
 
@@ -24,9 +24,9 @@
 
 | Problem | Impact |
 | :--- | :--- |
-| ⏳ **Mistimed fertilizer application** | ~25% nitrogen lost to leaching and volatilization |
-| 💧 **Suboptimal irrigation scheduling** | 15–20% yield reduction during critical reproductive phases |
-| 🌾 **Premature or delayed harvesting** | 12% post-harvest loss from grain shattering or quality degradation |
+| **Mistimed fertilizer application** | ~25% nitrogen lost to leaching and volatilization |
+| **Suboptimal irrigation scheduling** | 15–20% yield reduction during critical reproductive phases |
+| **Premature or delayed harvesting** | 12% post-harvest loss from grain shattering or quality degradation |
 
 ###
 
@@ -39,14 +39,14 @@
 ###
 
 <h5 align="left">
-📶 <b>Offline-First Operation</b> — Functions for at least 5 consecutive days without any internet connection using local data storage and service worker caching.<br><br>
-🌱 <b>Growth Stage Prediction</b> — Tracks rice phenology using Growing Degree Day (GDD) accumulation rather than fixed calendar dates.<br><br>
-💧 <b>Irrigation Scheduling</b> — Recommends dynamic irrigation timing based on crop growth phase and local thermal data entered by the user.<br><br>
-🌿 <b>Fertilizer Prescriptions</b> — Provides nitrogen application schedules aligned with physiological crop requirements, minimizing runoff waste.<br><br>
-📅 <b>Harvest Window Identification</b> — Predicts a 3-day optimal harvest window with 90% accuracy to maximize grain quality and marketable surplus.<br><br>
-🌐 <b>Bilingual Interface</b> — Full support for English and Filipino (Tagalog) to serve farmers and field workers in their preferred language.<br><br>
-📱 <b>Mobile-First Design</b> — Optimized for entry-level Android smartphones with no app store installation required (installable as a PWA).<br><br>
-🔄 <b>Background Sync</b> — Queues data locally and syncs anonymized cooperative-level data when connectivity is restored.
+<b>Offline-First Operation</b> — Functions for at least 5 consecutive days without any internet connection using local data storage and service worker caching.<br><br>
+<b>Growth Stage Prediction</b> — Tracks rice phenology using Growing Degree Day (GDD) accumulation rather than fixed calendar dates.<br><br>
+<b>Irrigation Scheduling</b> — Recommends dynamic irrigation timing based on crop growth phase and local thermal data entered by the user.<br><br>
+<b>Fertilizer Prescriptions</b> — Provides nitrogen application schedules aligned with physiological crop requirements, minimizing runoff waste.<br><br>
+<b>Harvest Window Identification</b> — Predicts a 3-day optimal harvest window with 90% accuracy to maximize grain quality and marketable surplus.<br><br>
+<b>Bilingual Interface</b> — Full support for English and Filipino (Tagalog) to serve farmers and field workers in their preferred language.<br><br>
+<b>Mobile-First Design</b> — Optimized for entry-level Android smartphones with no app store installation required (installable as a PWA).<br><br>
+<b>Background Sync</b> — Queues data locally and syncs anonymized cooperative-level data when connectivity is restored.
 </h5>
 
 ###
