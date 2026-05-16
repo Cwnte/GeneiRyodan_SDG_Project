@@ -1,5 +1,3 @@
-<h1 align="center"> AgriBridge</h1>
-
 ###
 
 <h1 align="left">About the Project</h1>
